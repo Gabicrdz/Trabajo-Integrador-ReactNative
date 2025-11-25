@@ -22,7 +22,7 @@ Aplicacion movil para tomar y organizar notas de estudio con imagenes. Ideal par
 1) Clona el repo  
 ```bash
 git clone https://github.com/Gabicrdz/Trabajo-Integrador-ReactNative.git
-cd estugrow
+cd Trabajo-Integrador-ReactNative
 ```
 
 2) Instala dependencias  
